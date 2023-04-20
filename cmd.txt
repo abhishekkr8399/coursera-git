@@ -1,2 +1,6 @@
  git restore --stage addedfile.txt (to remove from addad)
  git checkout -B 'feature/lesson'(to add new branch)
+ make new folder
+ add and commit
+ then git status
+  git push -u origin feature/lesson

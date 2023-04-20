@@ -3,4 +3,15 @@
  make new folder
  add and commit
  then git status
-  git push -u origin feature/lesson
+git push -u origin feature/lesson
+
+
+make other folder
+git init
+go to first
+git remote -v and copy fetch one
+come to second
+git remote add origin https://github.com/abhishekkr8399/coursera-git.git
+git pull 
+git checkout main
+ls

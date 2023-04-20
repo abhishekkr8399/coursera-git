@@ -1,1 +1,1 @@
-git restore --stage addedfile.txt (to remove from addad)
+ git restore --stage addedfile.txt (to remove from addad)
